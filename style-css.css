@@ -1,0 +1,72 @@
+body {
+  
+  background-image: linear-gradient(
+    to bottom,
+    rgb(91, 91, 243),
+    rgb(185, 199, 243),
+    rgb(91, 91, 243)
+  );
+  background-attachment: fixed;
+}
+img {
+  height: 250px;
+  width: 250px;
+  margin-left: 100px;
+  margin-top: 20px;
+  box-shadow: 1px 1px 0px black;
+  border-radius: 10px;
+}
+.texto {
+  display: flex;
+  align-items: flex-start;
+  margin: none;
+  font-size: 100%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.cabeçalho{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 0px;
+    text-align: center;
+    text-shadow: 2px 2px 0px black;
+}
+.inputs{
+    display: flex;
+    justify-items: auto;
+    align-items: flex-start;
+    padding: 100px;
+
+    
+}
+.menu01{
+    width: 100%;
+    height: 0;
+
+
+}
+.menu02{
+    width: 100%;
+
+
+    height: 0px;
+}
+.menu03{
+    width: 100%;
+
+
+    height: 0px;
+}
+.menu04{
+    width: 100%;
+
+
+    height: 0px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 0px black;
+    font-size: 23px;
+    
+}
